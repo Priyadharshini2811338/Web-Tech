@@ -1,1 +1,1 @@
-# Web-Tech
+# Web-technology
